@@ -1,4 +1,4 @@
-on: [push]
+on: [push,commit]
 
 jobs:
   zap_scan:
